@@ -249,9 +249,9 @@
     <list>
       <item itemvalue="Application.MyFof" />
       <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.TestLock" />
       <item itemvalue="Application.ooxx" />
       <item itemvalue="Application.WordCountJava" />
+      <item itemvalue="JUnit.TestLock" />
     </list>
     <recent_temporary>
       <list>
@@ -325,5 +325,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog" timestamp="1578276041472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1578276041472" />
   </component>
 </project>
