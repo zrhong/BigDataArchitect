@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spark/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/java/com/msb/bigdata/spark/WordCountJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson00_Object_Class.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson02_Functions.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson03_Collections.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson04_trait.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson05_case_class.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson06_match.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson07_PartialFunction.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson08_implicit.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/TestJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/WordCountScala.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson01_rdd_api01.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson02_rdd_api_sort.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson03_rdd_aggregator.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson04_rdd_partitions.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson05_rdd_gaoji.scala" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,18 +109,6 @@
       <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
       <recent name="$PROJECT_DIR$/bigdata-hadoop/src/main/resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.WordCountJava">
     <configuration default="true" type="Applet">
@@ -263,6 +237,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -302,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571683445188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1578276065839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578276065839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,9 +320,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="219" key="git4idea.merge.GitPullDialog" timestamp="1578276041472">
+    <state x="33" y="15" key="CommitChangelistDialog2" timestamp="1578276064540">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="436" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1578276041472" />
+    <state x="33" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578276064540" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1578276069133">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578276069133" />
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog" timestamp="1578637588248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1578637588248" />
   </component>
 </project>
