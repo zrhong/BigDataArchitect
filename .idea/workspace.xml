@@ -1,12 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_3_4.xml" afterDir="false" />
+    <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="解决冲突">
+      <change afterPath="$PROJECT_DIR$/bigdata-hadoop/data/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata-hadoop/src/main/java/com/msb/bigdata/hadoop/hdfs/TestMyHDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-hadoop/src/main/resources/core-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-hadoop/src/main/resources/core-site.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-hadoop/src/main/resources/hdfs-site.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-hadoop/src/main/resources/hdfs-site.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata-spark/bigdata-spark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/META-INF/bigdata-spark.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Dog$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/God$class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/God.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$3$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$3$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$factory$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$factory$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$fun08$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$fun08$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$fun10$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$fun10$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson02_Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$$anonfun$main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson03_Collections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson04_trait$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson04_trait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson05_case_class$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson05_case_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson06_match$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson06_match$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson06_match.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson07_PartialFunction$$anonfun$xxx$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson07_PartialFunction$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson07_PartialFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson08_implicit$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson08_implicit$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson08_implicit$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Lesson08_implicit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Mg$class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Mg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/TestJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/XXX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/ooxx$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/scala/ooxx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountJava$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountJava$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountJava$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountJava$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/WordCountScala.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson01_rdd_api01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson02_rdd_api_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$6$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$$anonfun$main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson03_rdd_aggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$3$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson04_rdd_partitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$2$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson05_rdd_gaoji.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson06_rdd_over.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$$anonfun$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson07_rdd_control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/lesson08_other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson01_sql_basic$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson01_sql_basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson02_sql_api01$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson02_sql_api01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson03_sql_jdbc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson03_sql_jdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson04_sql_standalone_hive$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson04_sql_standalone_hive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson05_sql_onhive$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson05_sql_onhive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson06_sql_functions$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson06_sql_functions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/com/msb/bigdata/spark/sql/lesson06_sql_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/core-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/hdfs-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/mapred-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata-spark/target/classes/yarn-site.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +233,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/bjmashibing/BigDataArchitect.git" />
+        <option value="https://github.com/zrhong/BigDataArchitect.git" />
+      </set>
+    </option>
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -40,7 +251,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="/opt/apache-maven-3.5.4" />
+        <option name="localRepository" value="E:\mvn-repo" />
+        <option name="userSettingsFile" value="C:\Users\zrhong\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -62,6 +274,12 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -76,7 +294,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bigdata-spark/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bigdata-hadoop/data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -85,7 +303,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.msb.bigdata.spark" />
+      <recent name="com.msb.bigdata.scala" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaWorkspace\mashibing\bigData\BigDataArchitect\bigdata-hadoop\data" />
+      <recent name="$PROJECT_DIR$/bigdata-spark/src/main" />
+      <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/java" />
+      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/resources" />
+      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.msb.bigdata.spark" />
+      <recent name="com.msb.bigdata" />
+      <recent name="com.msb.bigdata.hdfs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/bigdata-spark" />
       <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/resources" />
@@ -93,68 +330,10 @@
       <recent name="$PROJECT_DIR$/bigdata-redis" />
       <recent name="$PROJECT_DIR$/bigdata-hadoop" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.msb.bigdata.spark" />
-      <recent name="com.msb.bigdata.scala" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.msb.bigdata.spark" />
-      <recent name="com.msb.bigdata" />
-      <recent name="com.msb.bigdata.hdfs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bigdata-spark/src/main" />
-      <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/java" />
-      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/resources" />
-      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
-      <recent name="$PROJECT_DIR$/bigdata-hadoop/src/main/resources" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.WordCountJava">
+  <component name="RunManager" selected="JUnit.TestMyHDFS.get">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.zookeeper.App" />
-      <module name="bigdata-zookeeper" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb.zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.fof.MyFof" />
-      <module name="bigdata-hadoop" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb.bigdata.hadoop.fof.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordCountJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.spark.WordCountJava" />
-      <module name="bigdata-spark" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb.bigdata.spark.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,31 +344,86 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ooxx" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.scala.ooxx" />
-      <module name="bigdata-spark" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="TestMyHDFS.append" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hadoop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.msb.bigdata.scala.*" />
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.hdfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.msb.bigdata.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.hdfs.TestMyHDFS" />
+      <option name="METHOD_NAME" value="append" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bigdata-zookeeper" />
+    <configuration name="TestMyHDFS.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hadoop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.msb.zookeeper.locks.*" />
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.hdfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.msb.zookeeper.locks" />
-      <option name="MAIN_CLASS_NAME" value="com.msb.zookeeper.locks.TestLock" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.msb.bigdata.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.hdfs.TestMyHDFS" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyHDFS.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.msb.bigdata.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.hdfs.TestMyHDFS" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyHDFS.mkdir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.msb.bigdata.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.hdfs.TestMyHDFS" />
+      <option name="METHOD_NAME" value="mkdir" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyHDFS.put" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.msb.bigdata.hadoop.hdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.hdfs.TestMyHDFS" />
+      <option name="METHOD_NAME" value="put" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,19 +455,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyFof" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.ooxx" />
-      <item itemvalue="Application.WordCountJava" />
-      <item itemvalue="JUnit.TestLock" />
+      <item itemvalue="JUnit.TestMyHDFS.mkdir" />
+      <item itemvalue="JUnit.TestMyHDFS.put" />
+      <item itemvalue="JUnit.TestMyHDFS.delete" />
+      <item itemvalue="JUnit.TestMyHDFS.append" />
+      <item itemvalue="JUnit.TestMyHDFS.get" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordCountJava" />
-        <item itemvalue="Application.ooxx" />
-        <item itemvalue="Application.MyFof" />
-        <item itemvalue="JUnit.TestLock" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.TestMyHDFS.get" />
+        <item itemvalue="JUnit.TestMyHDFS.append" />
+        <item itemvalue="JUnit.TestMyHDFS.put" />
+        <item itemvalue="JUnit.TestMyHDFS.delete" />
+        <item itemvalue="JUnit.TestMyHDFS.mkdir" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +507,18 @@
       <workItem from="1571552238794" duration="769000" />
       <workItem from="1571567380976" duration="3285000" />
       <workItem from="1571681327490" duration="2239000" />
+      <workItem from="1578972714112" duration="597000" />
+      <workItem from="1580459924350" duration="927000" />
+      <workItem from="1581307399989" duration="177000" />
+      <workItem from="1581307633321" duration="598000" />
+      <workItem from="1581384571684" duration="1796000" />
+      <workItem from="1583998326873" duration="41000" />
+      <workItem from="1583999120853" duration="3563000" />
+      <workItem from="1584498469689" duration="278000" />
+      <workItem from="1584498773657" duration="79000" />
+      <workItem from="1584590527669" duration="674000" />
+      <workItem from="1584673847947" duration="1209000" />
+      <workItem from="1584685370049" duration="5611000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571545803904</created>
@@ -295,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578276065839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="解决冲突">
+      <created>1578637626016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578637626016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,20 +570,93 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="解决冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决冲突" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="33" y="15" key="CommitChangelistDialog2" timestamp="1578276064540">
+    <state x="522" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584690828691">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="33" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578276064540" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1578276069133">
+    <state x="522" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1584690828691" />
+    <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578749376481">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578276069133" />
-    <state x="436" y="219" key="git4idea.merge.GitPullDialog" timestamp="1578637588248">
+    <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1578749376481" />
+    <state x="33" y="15" key="CommitChangelistDialog2" timestamp="1578809618683">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="436" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1578637588248" />
+    <state x="33" y="15" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578809618683" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1584692833239">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584692833239" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1584692833237">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584692833237" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1584692833237">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584692833237" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1584692833237">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584692833237" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1578890370251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578890370251" />
+    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1578890370251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578890370251" />
+    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1578890370251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578890370251" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1578890370251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578890370251" />
+    <state width="1493" height="254" key="GridCell.Tab.2.bottom" timestamp="1578890370252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578890370252" />
+    <state width="1493" height="254" key="GridCell.Tab.2.center" timestamp="1578890370252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1578890370252" />
+    <state width="1493" height="254" key="GridCell.Tab.2.left" timestamp="1578890370251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1578890370251" />
+    <state width="1493" height="254" key="GridCell.Tab.2.right" timestamp="1578890370252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1578890370252" />
+    <state x="414" y="130" key="RollbackChangesDialog" timestamp="1578891199168">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="414" y="130" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1578891199168" />
+    <state x="272" y="62" key="SettingsEditor" timestamp="1578809695226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578809695226" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1578637628118">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578637628118" />
+    <state x="457" y="172" width="721" height="490" key="find.popup" timestamp="1584086049422">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="457" y="172" width="721" height="490" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584086049422" />
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog" timestamp="1584498819983">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="436" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1584498819983" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1584690316534">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1584690316534" />
   </component>
 </project>

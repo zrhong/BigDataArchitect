@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bigdata-hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigdata-hadoop/data/test.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/bigdata-hadoop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bigdata-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bigdata-redis/src/main/java" charset="UTF-8" />

@@ -18,7 +18,6 @@
       <module name="bigdata-spark" target="1.8" />
       <module name="bigdata-zookeeper" target="1.8" />
       <module name="BigDataArchitect" target="1.8" />
-      <module name="kjlkjk" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,7 +27,6 @@
       <module name="bigdata-redis" options="-parameters" />
       <module name="bigdata-spark" options="-parameters" />
       <module name="bigdata-zookeeper" options="-parameters" />
-      <module name="kjlkjk" options="-parameters" />
     </option>
   </component>
 </project>
